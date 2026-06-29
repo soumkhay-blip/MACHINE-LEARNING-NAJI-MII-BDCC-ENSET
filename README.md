@@ -1,13 +1,12 @@
-# Implémentation d'un Mini Réseau de Neurones avec NumPy (XOR)
+# Machine Learning — NAJI (MII-BDCC, ENSET)
 
-Ce projet est un TP pratique visant à implémenter et visualiser les fonctions d'activation (ReLU, Sigmoid, Tanh, LeakyReLU) et à construire un mini réseau de neurones (2-3-1) pour résoudre le problème du **XOR**.
+Devoir du module **Machine Learning**, Pr. **NAJI**,
+Master MII-BDCC, ENSET — Université Hassan II Casablanca.
 
-## 🚀 Fonctionnalités
-- **Partie A** : Tracé et comparaison des fonctions d'activation et leurs dérivées.
-- **Partie B** : Entraînement du réseau sur des données bruitées, évaluation des performances (Accuracy, Precision, Recall, F1-Score) et traçage des courbes ROC/Matrice de confusion.
+## Contenu
 
-## 🛠️ Technologies utilisées
-- Python 3
-- NumPy
-- Matplotlib
-- Scipy
+| Fichier | Description |
+|---------|-------------|
+| `devoir_classification.ipynb` | Problème de classification (dataset diabetes) |
+| `devoir_regression.ipynb` | Problème de régression |
+| `diabetes.csv` | Jeu de données utilisé |
